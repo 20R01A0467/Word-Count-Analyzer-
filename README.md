@@ -63,7 +63,7 @@ Do you want to:
 3. Exit
 Enter your choice (1, 2, or 3): 3
 Thank you for using the File Word Count Analyzer!
-                                                                                                                                                                                                                                                                                                                                                                                         ………………………………………………………………………………………………………………………………………………………………………………………………                                                                                                                                                                                                                 Output2:
+                                                                                                                                                                                                                                                                                                                                                                                         ………………………………………………………………………………………………………………………………………………………………………………………………                                                                                                                                                                                                         Output2:
 Welcome to the File Word Count Analyzer!
 Enter the path to the file: C:\Users\dsais\OneDrive\Desktop\COVER_LETTER[1].docx
 Total words in the file: 419
@@ -97,7 +97,9 @@ Do you want to:
 1. View most common words
 2. Search for a specific word
 3. Exit
-Enter your choice (1, 2, or 3): 3                                                                                                                                                              Thank you for using the File Word Count Analyzer!                                                                                                                                                   ………………………………………………………………………………………………………………………………………………………………………………………............Output3:                                                                                                                                                                                   Welcome to the File Word Count Analyzer!
+Enter your choice (1, 2, or 3): 3                                                                                                                                                              Thank you for using the File Word Count Analyzer!                                                                                                                                                   ………………………………………………………………………………………………………………………………………………………………………………………............
+
+Output3:                                                                                                                                                                                   Welcome to the File Word Count Analyzer!
 Enter the path to the file: C:\Users\dsais\OneDrive/Desktop\sumnath resume.pdf
 Total words in the file: 200
 Do you want to:
